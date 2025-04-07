@@ -1,5 +1,5 @@
-# Neuralink Data Compression
-In this project, I used Huffman Encoding to losslessly compress 1 hour of raw Neuralink electrode data with a 3.01 Compression Ratio. This was part of an open-source challenge.
+# EEG Data Compression
+In this project, I used Huffman Encoding to losslessly compress 1 hour of raw EEG electrode data with a 3.01 Compression Ratio.
 
 ## Scripts
 
